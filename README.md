@@ -1,7 +1,7 @@
 # language-detection
 Creating a language perception model using the language processing method and the naive Bayes method. 
 
-Dil işleme ile naive_bayes yöntemi kullanılarak bir dil algılama modeli oluşturmak.
+Dil işleme ile naive_bayes yöntemi kullanılarak bir dil algılama modeli oluşturulmuştur.
 
 Veri seti; https://huggingface.co/datasets/papluca/language-identification/tree/main açık kaynaklı adresten indirilmiştir. Veriler fazla olduğu için modeli sadece test olarak ayrılan dosyadaki verilerden eğittim.
 
