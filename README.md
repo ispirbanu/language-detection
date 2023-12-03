@@ -31,5 +31,7 @@ Diller;
 
 Her dil için değer sayısı;
 test veri seti-> 500
+
 validation veri seti -> 500
+
 train veri seti -> 3500
